@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jasonrigolli.com/sitemap.xml
